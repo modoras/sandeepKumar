@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kumar;Sandeep;;;
+FN:Sandeep Kumar
+ORG:Modoras Accounting SYD Pty Ltd
+ADR;TYPE=WORK:Level 14, 32 Smith Street, Parramatta, NSW 2150
+TITLE:Audit Partner
+TEL;TYPE=CELL:0411242350
+TEL;TYPE=WORK:0411272350
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:sandeep.kumar@modoras.com
+URL;TYPE=Digital Business Card:
+URL:https://modoras.com/team/sandeep-kumar/
+URL;TYPE=Website:https://modoras.com/team/sandeep-kumar/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100610948
+END:VCARD
